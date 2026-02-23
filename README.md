@@ -1,5 +1,4 @@
-<img width="1000" height="500" alt="download" src="https://github.com/user-attachments/assets/5fe22d16-6a3f-4933-a135-9e25731d78d7" />
-
+![1200800-2023-04-18T143316 753](https://github.com/user-attachments/assets/86641821-f3a0-4447-9207-64612e46a1eb)
 
 
 🏏 IPL 2024–2025 Match & Score Analysis | Power BI Dashboard
